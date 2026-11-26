@@ -20,5 +20,16 @@
     "id": 6258415137768533908,
     "description": "Archive Of Our Own (AO3) - fanfiction archive with search filters",
     "nsfw": true
+  },
+  {
+    "name": "NovelDex",
+    "pkg": "ireader.noveldex.en",
+    "version": "2.1",
+    "code": 1,
+    "lang": "en",
+    "apk": "ireader-en-noveldex-v2.1.apk",
+    "id": 7550046916586684998,
+    "description": "Read novels and comics from NovelDex",
+    "nsfw": false
   }
 ]
