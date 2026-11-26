@@ -13,12 +13,12 @@
   {
     "name": "ArchiveOfOurOwn",
     "pkg": "ireader.archiveofourown.en",
-    "version": "2.3",
-    "code": 3,
+    "version": "2.4",
+    "code": 4,
     "lang": "en",
-    "apk": "ireader-en-archiveofourown-v2.3.apk",
+    "apk": "ireader-en-archiveofourown-v2.4.apk",
     "id": 6258415137768533908,
-    "description": "Archive Of Our Own (AO3) - Fanfiction archive (header/cookie fix, v2.3)",
+    "description": "Archive Of Our Own (AO3) - search encoding/relevance fix",
     "nsfw": true
   }
 ]
