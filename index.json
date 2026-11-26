@@ -24,10 +24,10 @@
   {
     "name": "NovelDex",
     "pkg": "ireader.noveldex.en",
-    "version": "2.9",
-    "code": 9,
+    "version": "2.10",
+    "code": 10,
     "lang": "en",
-    "apk": "ireader-en-noveldex-v2.9.apk",
+    "apk": "ireader-en-noveldex-v2.10.apk",
     "id": 7550046916586684998,
     "description": "Read novels and comics from NovelDex",
     "nsfw": false
