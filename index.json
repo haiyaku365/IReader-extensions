@@ -13,12 +13,12 @@
   {
     "name": "ArchiveOfOurOwn",
     "pkg": "ireader.archiveofourown.en",
-    "version": "2.6",
-    "code": 6,
+    "version": "2.7",
+    "code": 7,
     "lang": "en",
-    "apk": "ireader-en-archiveofourown-v2.6.apk",
+    "apk": "ireader-en-archiveofourown-v2.7.apk",
     "id": 6258415137768533908,
-    "description": "Archive Of Our Own (AO3) - strip chapter preface HTML from content",
+    "description": "Archive Of Our Own (AO3) - return plain text content, strip preface",
     "nsfw": true
   }
 ]
